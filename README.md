@@ -12,11 +12,13 @@
 	</a>
 </div>
 
+<div align="center">
 ### About me
 - 🌱 I’m currently learning **HTML5, CSS (Sass, SCSS), JavaScript**
 - :man_technologist: I am currently working in Yandex
 - 📫 Reach me by [email](mailto:aleksandrpiletskii@gmail.com)
 - 🌍 I speak English (~B1/B2)
+</div>
 
 ### Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
