@@ -14,7 +14,7 @@
 
 ### About me
 - 🌱 I’m currently learning **HTML5, CSS (Sass, SCSS), JavaScript**
-- :man_technologist: I am currently working in Yandex
+- :man_technologist: I'm currently working in Yandex
 - 📫 Reach me by [email](mailto:aleksandrpiletskii@gmail.com)
 - 🌍 I speak English (~B1/B2)
 
