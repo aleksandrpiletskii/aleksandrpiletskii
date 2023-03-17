@@ -29,6 +29,6 @@
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aleksandrpiletskii&theme=github_dark"/>
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aleksandrpiletskii&theme=github_dark"/>
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aleksandrpiletskii&theme=github_dark"/>
-	<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aleksandrpiletskii&theme=default"/>
-	<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aleksandrpiletskii&theme=discord_old_blurple&utcOffset=8"/>
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aleksandrpiletskii&theme=github_dark"/>
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aleksandrpiletskii&theme=github_dark"/>
 </div>
