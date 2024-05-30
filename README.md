@@ -13,7 +13,7 @@
 </div>
 
 ### About me
-- 🌱 I’m currently learning **HTML5, CSS (Sass, SCSS), JavaScript**
+- 🌱 I’m currently learning **DB, QA, JavaScript and Automation QA**
 - :man_technologist: I'm currently working in Travelata.ru
 - 📫 Reach me by [email](mailto:aleksandrpiletskii@gmail.com)
 - 🌍 I speak English (~B1/B2)
