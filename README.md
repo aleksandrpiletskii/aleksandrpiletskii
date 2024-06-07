@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning **DB, QA, JavaScript and Automation QA**
 - :man_technologist: I'm currently working in Travelata.ru
 - 📫 Reach me by [email](mailto:aleksandrpiletskii@gmail.com)
-- 🌍 I speak English (~B1/B2)
+- 🌍 I speak English (~B2)
 
 ### Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
