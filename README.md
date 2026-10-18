@@ -1,6 +1,6 @@
 <div id="header" align="center">
 	<h1>Hi there, I'm Aleksandr</h1>
-	<h3>QA Engineer</h3>
+	<h3>Senior AQA Engineer</h3>
 </div>
 
 <div id="socials" align="center">
@@ -13,8 +13,8 @@
 </div>
 
 ### About me
-- 🌱 I’m currently learning **DB, QA, JavaScript and Automation QA**
-- :man_technologist: I'm currently working in Travelata.ru
+- 🌱 I’m currently learning **Automation QA in TypeScript (Playwright)**
+- :man_technologist: I'm currently working in TrueStats
 - 📫 Reach me by [email](mailto:aleksandrpiletskii@gmail.com)
 - 🌍 I speak English (~B2)
 
