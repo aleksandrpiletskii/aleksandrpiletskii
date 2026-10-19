@@ -14,7 +14,7 @@
 
 ### 👋 About
 
-I own test automation for a web analytics platform with marketplace integrations at **[TrueStats](https://truestats.ru/)**: the e2e framework, the infrastructure it runs on, and the coverage strategy behind it.
+I own test automation for a web analytics platform with marketplace integrations at **[Truestats](https://truestats.ru/)**: the e2e framework, the infrastructure it runs on, and the coverage strategy behind it.
 
 Most of my work sits in test infrastructure: deterministic stubs for external APIs, parallel runs, CI/CD and observability. I work across repos, adding `data-testid`s to the React/TS frontend and agreeing stub contracts with backend, so a run behaves the same locally and in CI.
 
