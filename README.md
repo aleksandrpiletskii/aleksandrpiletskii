@@ -44,14 +44,6 @@ Most of my work sits in test infrastructure: deterministic stubs for external AP
 | **Observability** | ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![SigNoz](https://img.shields.io/badge/SigNoz-E75536?style=flat-square) |
 | **AI** | ![MCP](https://img.shields.io/badge/MCP_%2F_AI_tools-191919?style=flat-square) |
 
-<!--
-### 📌 Featured
-
-Uncomment once the showcase repo is ready:
-
-- **[playwright-ts-framework](https://github.com/aleksandrpiletskii/playwright-ts-framework)** — UI + API framework: Playwright, TypeScript, fixtures, API stubs, CI, HTML report on GitHub Pages
--->
-
 ---
 
 <div align="center">
